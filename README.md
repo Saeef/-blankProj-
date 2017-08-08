@@ -1,4 +1,5 @@
 # blankProject  :rocket:
+Starting folder I created for pushing to Github, including my own self-executing function
 
 ### background  :bell:
 
